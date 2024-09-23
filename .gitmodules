@@ -1,0 +1,9 @@
+[submodule "apps/about"]
+	path = apps/about
+	url = https://github.com/datitk16/about.git
+[submodule "apps/cart"]
+	path = apps/cart
+	url = https://github.com/datitk16/cart.git
+[submodule "apps/shop"]
+	path = apps/shop
+	url = https://github.com/datitk16/shop.git
